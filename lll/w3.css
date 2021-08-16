@@ -1,0 +1,45 @@
+﻿body{
+	background-color: powderblue;
+	color: black;
+	border: 5px solid black;
+	margin: 50px;
+	background-image: url("treee.jpg");
+	background-repeat: no-repeat;background-position:right;
+	
+	}
+h1,form,#Athadu{
+	text-align: center;
+}
+h1{
+	border-style: inset;
+	border-color: black;
+	background-color: lightgreen;
+
+}
+
+
+
+
+h2{
+	text-align: center;
+}
+
+#geneius,h3{
+	text-align: right;
+}
+#hello{
+	text-align: center;
+	border: 2px solid black;
+	width: 10cm;
+	height: 5cm;
+	background-color:white;
+	content: center;
+	position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:530px; 
+    margin-left:-180px;
+}
+p{
+	font-size: 21px;
+}
